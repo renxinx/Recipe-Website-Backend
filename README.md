@@ -75,4 +75,3 @@ Renxin Xie:
 
 ### See Front end README for Marcela Vijil and Ruiwei Siu contribution
 https://github.khoury.northeastern.edu/TeamDandelion/Recipe-Frontend
->>>>>>> 5bf4224 (Initial commit)
