@@ -1,11 +1,6 @@
 # Recipe-Website-Backend
 This is the repository for the backend code of a recipe website. It's part of the final project for CS5610 Web Development.
 =======
-# Recipe-Backend
-
-### Team Dandelion
-
-### Group Members: Ruiwei Siu, Marcela Vijil, Renxin Xie, Allison Ying
 
 ## Iteration 2: CRUD Operations
 
@@ -30,12 +25,6 @@ We implemented CRUD operations for our main Recipes collection. We also added ad
 <img width="965" alt="Screen Shot 2022-12-08 at 7 10 56 PM" src="https://media.github.khoury.northeastern.edu/user/8110/files/99739dd0-291c-4791-b992-9c111213408e">
 <img width="825" alt="Screen Shot 2022-12-08 at 7 11 44 PM" src="https://media.github.khoury.northeastern.edu/user/8110/files/d57d09bf-b247-497e-8467-efbc58f62785">
 
-### Roles
-Allison Ying: Created and Modified CRUD methods for the backend(split with Ruiwei)
-
-Ruiwei Siu: Created and Modified CRUD methods for the backend(split with Allison)
-
-Marcela Vijil: Set up cloud based database and added appropriate routes to Heroku
 
 
 ## Iteration 1: Environment Setup
@@ -53,18 +42,6 @@ CRUD METHOD (in progress):
 3. Update / Put comment
 4. Delete comment
 
-### Roles
-
-Allison Ying:
-
-1. Set up backend environment (ie. file structure and connections)
-2. Route web links to their appropriate API methods
-3. Route API requests to appropriate DAO methods (split with Renxin)
-
-Renxin Xie:
-1. Route API requests to appropriate DAO methods (split with Allison)
-2. Connect MongoDB with backend
-3. Initiate MongoDB data
 
 ![image](https://media.github.khoury.northeastern.edu/user/9709/files/0b7890c4-29b0-45f7-b7f2-32cabe1e7cdb)
 
