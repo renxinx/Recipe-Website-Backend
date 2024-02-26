@@ -72,6 +72,3 @@ Renxin Xie:
 
 ![image](https://media.github.khoury.northeastern.edu/user/9709/files/14f0e85a-de79-4525-9ff1-97de7d11ede4)
 
-
-### See Front end README for Marcela Vijil and Ruiwei Siu contribution
-https://github.khoury.northeastern.edu/TeamDandelion/Recipe-Frontend
